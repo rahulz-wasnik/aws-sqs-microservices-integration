@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIA4BPD7ZX6BA6KAQNQ
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/827796213244/microservices-sqs-queue

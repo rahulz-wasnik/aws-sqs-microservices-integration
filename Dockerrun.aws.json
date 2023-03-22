@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion" : "1",
+  "Image" : {
+    "Name" : "teebone1985/microservices-aws-sqs-integration:latest",
+    "Update" : "true"
+  },
+  "Ports" : [ 
+  	{
+    	"ContainerPort" : "8080"
+  	} 
+  ]
+}
